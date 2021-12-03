@@ -1,9 +1,4 @@
 <body>
-  <style>
-    .itemcode{
-      background-color:red;
-    }
-  </style>
     <h1 align="center">--✌ 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕡𝕣𝕠𝕗𝕚𝕝𝕖 ✌--</h1>
     <br>
     <div align="center">
