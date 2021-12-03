@@ -1,6 +1,6 @@
 <body>
   <style>
-    itemcode{
+    .itemcode{
       background-color:red;
     }
   </style>
